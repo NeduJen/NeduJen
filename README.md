@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chinedu
-- 👀 I’m interested in cybersecurity, phyton and SQL
-- 🌱 I’m currently learning to become a Cybersecurity Specialist
-- 💞️ I’m looking to collaborate on projects that will enable learn and build my skill as a Purple Team Cyber Analyst/Researcher
+- 👀 I’m interested in cybersecurity and cloud computing
+- 🌱 I’m a Cloud Security Architect
+- 💞️ I’m looking for opportunities to build my level of competency in Cloud Architect
 - 📫 You can reach me here I believe.
 - 🙏🏽Thank you. NeduJen.
 
